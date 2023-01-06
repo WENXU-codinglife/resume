@@ -1,3 +1,3 @@
 # resume
 Xu Wen' Resume
-![image](./Resume_XuWen_SFU.jpeg)
+![image](/Resume_XuWen_SFU.jpeg)
